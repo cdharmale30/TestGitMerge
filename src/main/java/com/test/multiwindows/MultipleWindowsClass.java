@@ -35,6 +35,9 @@ public class MultipleWindowsClass {
 		driver.switchTo().window(mainWindow);
 		
 		
+		
+		System.out.println(1234567);
+		
 	}
 
 }
